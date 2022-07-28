@@ -1,7 +1,7 @@
 /**
 
-- Neobotz Beta Multi Device
-- Created By Lexxy Official
+- RizkyBot Beta Multi Device
+- Created By RizkyBot
 - Version : 3.0.0
 - Buy No Enc? Harga 150k
 - Wa gua : Wa.me/6283834558105
